@@ -16,21 +16,21 @@ The Human Replacement Script aims to replace all humans who wish to place boxes 
 
 + Create a new set of slots by typing:
 
-⋅⋅⋅size [n]
+...size [n]
 
-⋅⋅⋅where [n] is the number of slots you want.
+...where [n] is the number of slots you want.
 
 + Add a box to a slot by typing:
 
-⋅⋅⋅add [n]
+...add [n]
 
-⋅⋅⋅where [n] is the number of the slot you would like to add the box to.
+...where [n] is the number of the slot you would like to add the box to.
 
 + Remove a box from a slot by typing:
 
-⋅⋅⋅rm [n]
+...rm [n]
 
-⋅⋅⋅where [n] is the number of the slot from which you would like to remove the box.
+...where [n] is the number of the slot from which you would like to remove the box.
 
 + Move a box from one slot to another by typing:
 
