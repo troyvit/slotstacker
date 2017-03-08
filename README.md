@@ -16,40 +16,40 @@ The Human Replacement Script aims to replace all humans who wish to place boxes 
 
 + Create a new set of slots by typing:
 
-size [n]
+⋅⋅⋅size [n]
 
-where [n] is the number of slots you want.
+⋅⋅⋅where [n] is the number of slots you want.
 
 + Add a box to a slot by typing:
 
-add [n]
+⋅⋅⋅add [n]
 
-where [n] is the number of the slot you would like to add the box to.
+⋅⋅⋅where [n] is the number of the slot you would like to add the box to.
 
 + Remove a box from a slot by typing:
 
-rm [n]
+⋅⋅⋅rm [n]
 
-where [n] is the number of the slot from which you would like to remove the box.
+⋅⋅⋅where [n] is the number of the slot from which you would like to remove the box.
 
 + Move a box from one slot to another by typing:
 
-mv [n] [x]
+⋅⋅⋅mv [n] [x]
 
-where [n] is the slot from which you move a box and [x] is the destination.
+⋅⋅⋅where [n] is the slot from which you move a box and [x] is the destination.
 
 + Undo movements by typing:
 
-undo [n]
+⋅⋅⋅undo [n]
 
-where [n] is how far back in history you would like to go with an undo. For instance if you type:
+⋅⋅⋅where [n] is how far back in history you would like to go with an undo. For instance if you type:
 
-add 1
-add 2
-add 3
-undo 2
+⋅⋅⋅add 1
+⋅⋅⋅add 2
+⋅⋅⋅add 3
+⋅⋅⋅undo 2
 
-the robot will remove one box from slot 2 and one box from slot 3.
+⋅⋅⋅the robot will remove one box from slot 2 and one box from slot 3.
 
 + replay a past movement by typing:
 
