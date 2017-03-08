@@ -1,5 +1,5 @@
+#!/usr/bin/php
 <?php
-
 class robot {
 	public $slots;
     public $slot_state = array();
