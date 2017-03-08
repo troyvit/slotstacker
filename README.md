@@ -12,7 +12,15 @@ The robot starts by allowing the user to select the number of slots required to 
 Below are full instructions.
 
 # instructions
-The Human Replacement Script aims to replace all humans who wish to place boxes into slots. It is superior in every way to modern human brains. Howto and features:
+To start the script type:
+
+`./human_replacement.php`
+
+If it is executable and can find PHP on your system it will run. If the file isn't executable you can type:
+
+`php human_replacement.php`
+
+Once you're in here's what you can do:
 
 + Create a new set of slots by typing:
 
