@@ -16,7 +16,7 @@ To start the script type:
 
 `./human_replacement.php`
 
-If it is executable and can find PHP on your system it will run. If the file isn't executable you can type:
+from within the repository folder. If it is executable and can find PHP on your system it will run. If the file isn't executable you can type:
 
 `php human_replacement.php`
 
